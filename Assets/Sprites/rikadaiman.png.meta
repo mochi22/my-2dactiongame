@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 1b0afbf891603164c9ae74fe33f18064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4701242433043310515
+    second: rikadaiman_0
+  - first:
+      213: 7541403720452754257
+    second: rikadaiman_1
+  - first:
+      213: -3402321580419345622
+    second: rikadaiman_2
+  - first:
+      213: 1779403313330038725
+    second: rikadaiman_3
+  - first:
+      213: -1746569699169574750
+    second: rikadaiman_4
+  - first:
+      213: 6966727119539442540
+    second: rikadaiman_5
+  - first:
+      213: -4305222222596020435
+    second: rikadaiman_6
+  - first:
+      213: -7046289823205860756
+    second: rikadaiman_7
+  - first:
+      213: -2384510190937300336
+    second: rikadaiman_8
+  - first:
+      213: 2486648220925982247
+    second: rikadaiman_9
+  - first:
+      213: 6015603200072917941
+    second: rikadaiman_10
+  - first:
+      213: 3787659349714788464
+    second: rikadaiman_11
+  - first:
+      213: -7635830948044349204
+    second: rikadaiman_12
+  - first:
+      213: 2631042139354161292
+    second: rikadaiman_13
+  - first:
+      213: 5880421810708179451
+    second: rikadaiman_14
+  - first:
+      213: 8396544999413251075
+    second: rikadaiman_15
+  - first:
+      213: -7606193079817505602
+    second: rikadaiman_16
+  - first:
+      213: 3781343689150985948
+    second: rikadaiman_17
+  - first:
+      213: -1930179319717408139
+    second: rikadaiman_18
+  - first:
+      213: -3362179609976379824
+    second: rikadaiman_19
+  - first:
+      213: -2909947288289503640
+    second: rikadaiman_20
+  - first:
+      213: -628244403265174935
+    second: rikadaiman_21
+  - first:
+      213: 1214243044878463553
+    second: rikadaiman_22
+  - first:
+      213: -6097721889549597982
+    second: rikadaiman_0
+  - first:
+      213: -8949460170339380295
+    second: rikadaiman_1
+  - first:
+      213: 6995081937671155953
+    second: rikadaiman_2
+  - first:
+      213: 1086926652354973275
+    second: rikadaiman_3
+  - first:
+      213: -2450627255009246454
+    second: rikadaiman_4
+  - first:
+      213: -4954721865655765141
+    second: rikadaiman_5
+  - first:
+      213: 4578733447649278769
+    second: rikadaiman_6
+  - first:
+      213: -1345216031512757828
+    second: rikadaiman_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rikadaiman_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 431
+        width: 71
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2c542af3a806ba0800000000000000
+      internalID: -6097721889549597982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 431
+        width: 71
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31a6f24612dc380800000000000000
+      internalID: -8949460170339380295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 431
+        width: 71
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0f3a5f5f5831160800000000000000
+      internalID: 6995081937671155953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 230
+        width: 76
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec582180a851f00800000000000000
+      internalID: 1086926652354973275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 237
+        width: 73
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03884cde7f9dfdd0800000000000000
+      internalID: -2450627255009246454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 73
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b673ab4e6ba4d3bb0800000000000000
+      internalID: -4954721865655765141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 13
+        width: 71
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb55cbfcdea8f30800000000000000
+      internalID: 4578733447649278769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 10
+        width: 73
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb975878525d45de0800000000000000
+      internalID: -1345216031512757828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rikadaiman_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 80
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09222e17d9488eed0800000000000000
+      internalID: -2384510190937300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
